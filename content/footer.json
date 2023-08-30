@@ -1,11 +1,11 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Intervia Moda Femina",
+    "text": "Empoderando Mulheres com looks modernos! Moda Feminina - Casual e Moderna, InterDivas!"
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Institucional",
     "list": []
   },
   "links_2": {
@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Informações Gerais de Contato",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -23,19 +23,24 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
-      "width": 150,
-      "height": 62
+      "alt": "Secure connection"
     }
   ],
   "payment_methods": {
-    "pix": true,
+    "bb": true,
     "visa": true,
-    "mastercard": true,
+    "boleto": true,
+    "aura": false,
+    "banrisul": false,
     "elo": true,
-    "amex": true,
-    "hipercard": true,
-    "boleto": true
+    "hipercard": false,
+    "hsbc": false,
+    "bradesco": true,
+    "santander": false,
+    "mastercard": true,
+    "citibank": false,
+    "mais": false,
+    "itau": true
   },
   "credits": ""
 }

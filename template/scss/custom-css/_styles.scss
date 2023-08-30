@@ -1,1 +1,84 @@
 // Add your custom CSS here.
+
+body, h4, h3, h2, h1, h5, h6, li, ul, a, b, strong, em, span, small {
+font-family: 'Barlow Condensed', sans-serif;
+}
+.top-bar__countdown {
+    background-color: #DF2D32 !important;
+}
+.header, .footer {
+    background-color: #fff;
+}
+.header {
+    border-bottom: 0;
+}
+.footer {
+    border-top-color:#DF2D32 !important;
+}
+.top-bar__nav {
+    display: none !important;
+}
+.product-card, .products-carousel__item {
+    padding: 0;
+  }
+  .search-engine__retail .row .col-6.col-md-4.col-lg-3, .search-engine__results .container {
+    padding-left: .2rem;
+    padding-right: .2rem;
+  }
+  .products-carousel__title a:hover {
+    text-decoration: none;
+}
+.product-item {
+    .prices, .product-card__name {
+        text-align: center;
+    }
+}
+.products-carousel__title:before {
+    display: none;
+}
+.products-carousel__title {
+    background: url(/img/uploads/linha-title.png) no-repeat bottom;
+  }
+  .topo {
+    display: flex;
+    background-color: #DF2D32 !important;
+}
+#entrar {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    a {
+        color: #fff
+    }
+}
+@media(min-width: 767px) {
+    .header__row {
+        display: flex;
+        .col-auto.p-0 {
+            order: 1;
+        }
+        .col.col-lg-auto.pl-1.pl-md-2.pl-lg-3 {
+            order: 2;
+        }
+        .d-none.d-lg-block.col {
+            order: 3;
+        }
+        #search-bar {
+            order: 4;
+        }
+        .order-lg-last.col-auto.p-0 {
+            order: 5;
+        }
+    }
+}
+.header__search {
+    border: 2px solid #000
+}
+
+.footer__title {
+    color: #DF2D32 !important;
+}
+.footer__credits {
+    display: flex;
+    justify-content: center;
+}

@@ -1,30 +1,24 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Comprou e não serviu? A 1º Troca é Grátis ♥",
+    "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/vestidos?Vestidos",
+      "/blusa?Blusas",
+      "/conjunto?Conjuntos",
+      "/shorts-bermudas?Shorts/ Bermudas",
+      "/calcas?Calças",
+      "/macacoes-femininos?Macacões"
+    ],
+    "random": 1,
     "full_width": false
   },
-  "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "search_input": true
 }
