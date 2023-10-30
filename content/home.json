@@ -28,18 +28,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner2.jpg",
-          "alt": "",
-          "link": "https://www.instagram.com/interviaoficial/"
-        },
-        {
-          "img": "/img/uploads/banner1-1-.jpg",
-          "alt": "",
-          "link": "https://web.whatsapp.com/send?phone=%2B556233121132"
-        }
-      ]
+      "banners": []
     }
   ]
 }
