@@ -1,10 +1,10 @@
 {
-  "domain": "interviaoficial.com.br",
+  "domain": "useintervia.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/intervia-8540",
@@ -14,11 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/logo.jpg",
+  "font_family": "_",
+  "favicon": "/img/uploads/2dc25339-d097-4aea-b475-ddd3c0781cf9.png",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/uploads/logo.jpg",
+  "secondary_color": "#000000",
+  "icon": "/img/uploads/2dc25339-d097-4aea-b475-ddd3c0781cf9.png",
   "store_id": 51448,
   "description": "Empoderando Mulheres com looks modernos!\nModa Feminina - Casual e Moderna, InterDivas!",
-  "large_icon": "/img/uploads/logo.jpg"
+  "large_icon": "/img/uploads/2dc25339-d097-4aea-b475-ddd3c0781cf9.png"
 }
