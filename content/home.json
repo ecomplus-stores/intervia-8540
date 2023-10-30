@@ -27,8 +27,9 @@
       "sort": "news"
     },
     {
-      "type": "banners-grid",
-      "banners": []
+      "type": "responsive-banner",
+      "img": "/img/uploads/rect8589.png",
+      "mobile_img": "/img/uploads/rect8589.png"
     }
   ]
 }
