@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.38941721a96dba671814229692e53e07.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a3a42a2a13ce9c1613a477e9b366fb38.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f4c9d9c9c65fba4da553ecc084e1dae9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e6e4e5b4acee9c0f47eb90683acf2836.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.62e595dc1c4a1c23ff9aaab3a27fa530.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Intervia Moda Feminina",
+  "short_name": "Intervia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Empoderando Mulheres com looks modernos!\nModa Feminina - Casual e Moderna, InterDivas!",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
